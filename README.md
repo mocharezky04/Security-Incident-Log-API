@@ -122,6 +122,3 @@ routes/
 **Mocha Rezky**
 
 ---
-<div align="center">
-  Built for PBW Assignment and SOC Analyst Portfolio.
-</div>
